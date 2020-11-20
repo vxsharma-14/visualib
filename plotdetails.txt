@@ -1,0 +1,8 @@
+# Text file to input plotting details.
+#
+FILENAMES;output1.txt;output2.txt;output3.txt;output4.txt
+FIGTITLES;FIGURE 1;FIGURE 2;FIGURE 3;FIGURE 4
+XTITLES;X;X;X;X
+YTITLES;Y;Y;Y;Y
+XCOORDINATES;0.0;1.0;0.0;1.0
+YCOORDINATES;0.0;1.0;0.0;1.0

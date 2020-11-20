@@ -21,6 +21,6 @@ Procedure to generate plots from the functions in this reporsitory:
      a = x and y coordinates of patch 1 location
      b = x and y coordinates of patch 2 location
      
-   **SEE EXAMPLE IN FILE "VISUALIZATION.HTML"
+   **SEE EXAMPLE IN FILE "VISUALIZATION.PDF"
     
 
